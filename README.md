@@ -1,2 +1,2 @@
 # LeetCodeDaily
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+Collection of LeetCode questions _for practice and knowledge_ - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
